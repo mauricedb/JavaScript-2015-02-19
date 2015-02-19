@@ -1,0 +1,16 @@
+{
+  "name": "FunctionalJavaScript",
+  "version": "1.0.0",
+  "description": "Functional JavaScript",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maurice de Beijer",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "^3.3.4",
+    "serve-static": "^1.9.1"
+  }
+}
