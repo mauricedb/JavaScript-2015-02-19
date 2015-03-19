@@ -8,8 +8,9 @@ function Calculator(xId, yId, resultId) {
     this.resultId = resultId;
 }
 
+
 Calculator.prototype.getValue = function (id) {
-    var xEl = document.getElementById(id);
+    var xEl: any = document.getElementById(id);
     return +xEl.value;
 };
 
