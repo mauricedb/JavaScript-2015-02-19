@@ -1,0 +1,86 @@
+[
+  {
+    "article": "apple",
+    "price": 79.45
+  },
+  {
+    "article": "door",
+    "price": 79.52
+  },
+  {
+    "article": "charger",
+    "price": 45.02
+  },
+  {
+    "article": "chocolate",
+    "price": 38.44
+  },
+  {
+    "article": "bananas",
+    "price": 84.96
+  },
+  {
+    "article": "cup",
+    "price": 22.24
+  },
+  {
+    "article": "box",
+    "price": 87.51
+  },
+  {
+    "article": "desk",
+    "price": 42.14
+  },
+  {
+    "article": "brocolli",
+    "price": 87.65
+  },
+  {
+    "article": "boom box",
+    "price": 77.76
+  },
+  {
+    "article": "plate",
+    "price": 34.08
+  },
+  {
+    "article": "fake flowers",
+    "price": 36.2
+  },
+  {
+    "article": "flag",
+    "price": 36.99
+  },
+  {
+    "article": "puddle",
+    "price": 68.83
+  },
+  {
+    "article": "nail file",
+    "price": 96.3
+  },
+  {
+    "article": "model car",
+    "price": 89.7
+  },
+  {
+    "article": "mirror",
+    "price": 87.11
+  },
+  {
+    "article": "remote",
+    "price": 94.68
+  },
+  {
+    "article": "shoes",
+    "price": 42.67
+  },
+  {
+    "article": "shoe lace",
+    "price": 77.16
+  },
+  {
+    "article": "soda can",
+    "price": 69.66
+  }
+]
