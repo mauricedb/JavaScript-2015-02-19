@@ -1,0 +1,22 @@
+{
+  "name": "TestingJS",
+  "version": "1.0.0",
+  "description": "9 - TestingJS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maurice de Beijer",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "express": "^4.13.0",
+    "open": "0.0.5",
+    "serve-static": "^1.10.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-main-bower-files": "^1.1.2"
+  }
+}
