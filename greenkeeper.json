@@ -1,0 +1,18 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "1-Functional-JavaScript/package.json",
+        "2-OO-JavaScript/package.json",
+        "3-TypeScript/package.json",
+        "4 - Framework Elements/package.json",
+        "5 - Framework Architectuur/package.json",
+        "6 - AngularJS/package.json",
+        "7 - ReactJS/package.json",
+        "8 - Tooling/package.json",
+        "9 - Testing/package.json",
+        "temp/package.json"
+      ]
+    }
+  }
+}
